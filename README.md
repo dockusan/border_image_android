@@ -1,4 +1,4 @@
-# border_image_android
+# Finding Image Contour
 
 Finding Image Contour with bitmap android.
 Convert from java to android follow here:
